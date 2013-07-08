@@ -11,7 +11,7 @@ Explain what the code in <code>admin.php</code> does, line by line, in plain, co
 **Task 1 Answer: submit PR for an updated <code>admin.php</code> with your comments**
 
 #### Task 2
-Given the table below, improve the structure of this databse (adjust fields, data format, tables, order, field types, etc).
+Given the table below, improve the structure of this database (adjust fields, data format, tables, order, field types, etc).
 
 ```sql
 CREATE TABLE employee_info (
