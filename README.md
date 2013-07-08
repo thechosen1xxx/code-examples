@@ -2,7 +2,7 @@
 ### Instructions
 1. Fork this repo.
 2. Provide answers to tasks in the form of new code.
-3. Submit pull request including your answer files.
+3. Commit your code
 
 #### Task 1
 Explain what the code in <code>admin.php</code> does, line by line, in plain, concise english.  Identify as many bugs as you can and why they are bugs.
