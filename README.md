@@ -3,6 +3,7 @@
 1. Fork this repo.
 2. Provide answers to tasks in the form of new code.
 3. Commit your code
+4. If you want to keep your submission in a private repo, add <code>thajosh</code> to the repo as a member with view access.
 
 #### Task 1
 Explain what the code in <code>admin.php</code> does, line by line, in plain, concise english.  Identify as many bugs as you can and why they are bugs.
