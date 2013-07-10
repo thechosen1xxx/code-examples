@@ -12,6 +12,7 @@ Explain what the code in <code>admin.php</code> does, line by line, in plain, co
 
 #### Task 2
 Given the table below, improve the structure of this database (adjust fields, data format, tables, order, field types, etc).
+>Hint: you should have more than one table.
 
 ```sql
 CREATE TABLE employee_info (
