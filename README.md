@@ -11,7 +11,7 @@ This is exercise meant to be a validation of fundamental knowledge of basic conc
 Explain what the code in <code>admin.php</code> does, line by line, in plain, concise english.  Identify as many bugs as you can and why they are bugs.
 >Context: A page called login.php asks for a username and password.  If the password is correct, it redirects the user to <code>admin.php</code>.
 
-**Task 1 Answer: submit PR for an updated <code>admin.php</code> with your comments**
+**Task 1 Answer: commit updated <code>admin.php</code> with your comments**
 
 #### Task 2
 Given the table below, improve the structure of this database (adjust fields, data format, tables, order, field types, etc).
@@ -48,10 +48,10 @@ id, username, email1, email2, password, company_name, company_phone, company_add
 42, KateSmith, ksmith1@example.com, NULL, dbe39d9d56f98d5f9cb22df15b285791, Example Dot Com, 555-1234, 456 Example Lane, Sr Manager, $80,000, admin, false, 2004-12-24
 ```
 
-**Task 2 Answer: submit PR with a new file <code>db.sql</code> with your SQL statement(s)**
+**Task 2 Answer: commit a new file <code>db.sql</code> with your SQL statement(s)**
 
 #### Task 3
 After improving the database, write a raw sql statement that gets the username, first email, start_date, salary, and company_name for all active admins from your new database format.
 >This should be written in SQL, not PHP.
 
-**Task 3 Answer: submit PR with a new file <code>fetch.sql</code> with your SQL statement(s)**
+**Task 3 Answer: commit a new file <code>fetch.sql</code> with your SQL statement(s)**
