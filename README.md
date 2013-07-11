@@ -1,7 +1,9 @@
 ##code-examples
 ### Instructions
+This is exercise meant to be a validation of fundamental knowledge of basic concepts. Unfortunately, too many candidates who claim to have expert level knowledge of web application development fail to grasp the basics. This should be trivially easy for those with actual skills.
+
 1. Fork this repo.
-2. Provide answers to tasks in the form of new code.
+2. Provide answers to tasks in the form of new code & comments.
 3. Commit your code
 4. If you want to keep your submission in a private repo, add <code>thajosh</code> to the repo as a member with view access.
 
